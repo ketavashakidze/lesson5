@@ -1,0 +1,21 @@
+.logo { display: inline-block; vertical-align: middle; margin:20px 92px 42px 20px;}
+.navigation { display: inline-block; }
+.photo {display: inline-block;vertical-align: middle;margin:11px 0 42px 13px;}
+.nav-li {display: inline-block;vertical-align: middle;margin:20px 27px 42px 0;r}
+/*section1*/
+.wraper {width: 1160px; margin: 0 auto; }
+.header1 {margin-bottom: 40px;}
+.block1 { display: inline-block;background-color: #FFFFFF;position: relative; margin-right: 36px; }
+.block2 {display: inline-block; position: relative;margin-right: 36px;}
+.block3 {display: inline-block;position: relative;}
+.absolute {position: absolute; top:28px;left: 40px; color: #FFFFFF;}
+.paragraph { width: 280px; color: #A6ADB4; margin: 66px auto; }
+/*section 2*/
+.header2 {margin-top: 58px; margin-bottom: 40px;}
+.div1 {display: inline-block; vertical-align: top; margin-right: 36px;}
+.div2 {display: inline-block;vertical-align: top;}
+.image-block1 { margin-bottom: 36px; position: relative; }
+.absolute1 {position: absolute;top: 394px; left: 569px; color: #FFFFFF;}
+.image-block3 {margin-bottom: 100px; position: relative;}
+.absolute2 {position: absolute; top: 18px; left: 40px; color: #FFFFFF;}
+.image-block4 {margin-bottom: 100px;}
